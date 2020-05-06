@@ -1,0 +1,14 @@
+Install
+	Package Control
+	Anaconda
+	BracketHighlighter
+	Material Theme
+	Predawn
+	SideBarEnhancements
+
+add subl to terminal:
+discover installation location	which/type subl (e.g. /snap/bin/subl)
+clone the executable 			ln -s [installation location] [choose a path directory (e.g. "/usr/local/bin/"subl)]
+check operation			ls -la [new path directory (e.g. /usr/local/bin)] | grep subl
+
+
